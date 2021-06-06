@@ -11,7 +11,7 @@ Salient Features:
 3) Email service available when the order is placed
 4) Using Google maps to add current location
 5) Mobile number verification during sign Up
-6) Cloud storage using firebase
+6) Cloud storage using firebase.
 
 
 Installation and compilation:
